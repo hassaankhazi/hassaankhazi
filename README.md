@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/hassaankhazi/hassaankhazi/blob/main/Rectangle-3144.png)
 <h1 align="center">Hi 👋, I'm MOHAMMED HASSAAN KHAZI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
